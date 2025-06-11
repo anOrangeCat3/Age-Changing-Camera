@@ -50,11 +50,6 @@ The results are shown as following, which are fun:
 
 **Donald Trump and Andy Lau, who are famous.**
 
-<div align=center>
-<img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/e3bc58a8-4adf-4449-887b-c8bbbd26d33e"  />
-</div>
-
-**They are both my friends.**
 
 
 
